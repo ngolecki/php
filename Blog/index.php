@@ -2,7 +2,6 @@
 /**
  * single entry point to site
  * controllers called in router class
- * 
  * /
 var_export($_REQUEST);
 
