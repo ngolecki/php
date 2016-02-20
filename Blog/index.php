@@ -1,10 +1,9 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: nikolai
- * Date: 13/02/16
- * Time: 11:26
- */
+ * single entry point to site
+ * controllers called in router class
+ * 
+ * /
 var_export($_REQUEST);
 
 error_reporting(E_ALL);
